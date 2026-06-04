@@ -1,4 +1,3 @@
-# sales-performance-dashboard-sql-powerbi
 # Sales Performance Dashboard using SQL & Power BI
 
 ## Project Overview
